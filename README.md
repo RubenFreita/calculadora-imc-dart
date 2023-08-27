@@ -1,2 +1,2 @@
-# calculadora-imc-dart
-Calculadora de IMC feita em dart, com uma classe pessoa, tratamento de exceção e testes.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
